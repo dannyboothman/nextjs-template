@@ -19,7 +19,7 @@ First, clone the repo:
 git clone https://github.com/dannyboothman/nextjs-template.git
 ```
 
-Second, install the package:
+Second, install the packages:
 
 ```bash
 npm run install
