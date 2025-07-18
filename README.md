@@ -13,7 +13,19 @@ The template comes with several packages pre-installed:
 
 ## Getting Started
 
-First, run the development server:
+First, clone the repo:
+
+```bash
+git clone https://github.com/dannyboothman/nextjs-template.git
+```
+
+Second, install the package:
+
+```bash
+npm run install
+```
+
+Last, run the development server:
 
 ```bash
 npm run dev
